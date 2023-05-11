@@ -29,6 +29,10 @@ backtotop: false
 
 本页面就是一个示例，禁用了如下功能:
 
+
+$ git remote add origin git@github.com:OmegaProject125/OmergaProject125.github.io.git
+
+
 - 导航栏
 - 侧边栏
 - 路径导航
